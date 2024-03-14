@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">my-linkedin-3</string>
+    <string name="email_hint">Type your email address</string>
+    <string name="pass_hint">Password</string>
+    <string name="btn_value">Submit</string>
+    <string name="first_name">Your firstname</string>
+    <string name="fav_color">Your favorite color</string>
+    <string name="fav_snack">Your favorite snack</string>
+    <string name="message">Hi %s, your favorire color %s and you favorite snack is %s.</string>
+
+</resources>
