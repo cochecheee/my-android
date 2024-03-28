@@ -1,7 +1,6 @@
 package com.example.my_linkedin_9;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
